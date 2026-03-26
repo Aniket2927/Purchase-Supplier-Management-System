@@ -20,6 +20,8 @@ function Button({
       'bg-white text-indigo-700 shadow-xl shadow-black/30 hover:-translate-y-0.5 hover:bg-indigo-50 focus-visible:ring-white',
     heroOutline:
       'border border-indigo-200/40 bg-white/10 text-white shadow-lg shadow-black/20 hover:-translate-y-0.5 hover:bg-white/20 focus-visible:ring-indigo-200',
+    ghostLight:
+      'text-slate-300 hover:bg-white/10 hover:text-white focus-visible:ring-white',
   }
 
   return (
